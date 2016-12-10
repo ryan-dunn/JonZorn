@@ -1,0 +1,66 @@
+/******************************************************************
+Site Name:
+Author:
+
+Stylesheet: Desktop Stylsheet
+
+This is the desktop size. It's larger than an iPad so it will only
+be seen on the Desktop.
+
+******************************************************************/
+
+.container {
+  width: 1021px;
+}
+
+h1, .h1{
+	font-size:3.5em;
+}
+
+.chalkboard{
+
+		.chalkwrite{
+		
+/*homepage*/
+			#loc{
+				font-size:3.5em;
+			}
+
+			#details{
+				font-size:2.5em;
+			}
+		}
+}
+
+.aboutback{
+
+		p{
+			font-size:2.6em;
+		}
+	}
+
+.greenhead{
+	h1{
+		font-size:5em;
+	}
+	}
+
+nav ul li a{
+	font-size:3.5em;
+}
+
+.zornhide{
+	display:flex !important;
+}
+
+.c-l1, .c-l4{
+	display:block;
+}
+
+.c-l4{
+	padding-bottom:20px;
+}
+
+.zContact-img{
+	width:auto;
+}
